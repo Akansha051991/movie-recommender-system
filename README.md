@@ -2,21 +2,20 @@
 
 A sleek, interactive web application that recommends movies based on content similarity. This project uses Machine Learning to find patterns in movie metadata and fetches real-time posters using the TMDB API.
 
-## 🌟 Live Demo
-https://movie-recommender-system-i6y33unm4lunqb3eaggmow.streamlit.app/
+### 🌟 [Click Here for the Live Demo](https://movie-recommender-system-i6y33unm4lunqb3eaggmow.streamlit.app/)
 
-🧠 Data Science & Machine Learning Workflow
+##🧠 Data Science & Machine Learning Workflow
 Before the app was built, I performed extensive data processing and model research. 
-View the Research & Model Building Notebook (https://github.com/Akansha051991/movie-recommender-system/blob/main/movie_recommender_project.ipynb)
+View the Research & Model Building Notebook * [📊 View the Research & Model Building Notebook](https://github.com/Akansha051991/movie-recommender-system/blob/main/movie_recommender_project.ipynb)
 Includes: Data cleaning, exploratory data analysis (EDA), feature engineering, and similarity matrix generation.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Language: Python
 Web Framework: Streamlit
 ML Libraries: Pandas, Scikit-learn, NLTK
 Data Source: TMDB 5000 Movies Dataset
 
-📂 Repository Structure
+**📂 Repository Structure**
 app.py: The main script for the Streamlit web application.
 model/: Contains the pre-trained similarity matrix and movie dictionaries.
 movie_recommender_project.ipynb: The Jupyter notebook containing the full ML pipeline.

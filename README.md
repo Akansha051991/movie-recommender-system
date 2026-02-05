@@ -2,8 +2,7 @@
 
 A sleek, interactive web application that recommends movies based on content similarity. This project uses Machine Learning to find patterns in movie metadata and fetches real-time posters using the TMDB API.
 
-### 🌟 [Click Here for the Live Demo](https://movie-recommender-system-i6y33unm4lunqb3eaggmow.streamlit.app/)
-
+### 🌟 [Click Here for the Live Demo](https://best-movie-recommender-by-akansha.streamlit.app/)
 ##🧠 Data Science & Machine Learning Workflow
 Before the app was built, I performed extensive data processing and model research. 
 View the Research & Model Building Notebook * [📊 View the Research & Model Building Notebook](https://github.com/Akansha051991/movie-recommender-system/blob/main/movie_recommender_project.ipynb)
